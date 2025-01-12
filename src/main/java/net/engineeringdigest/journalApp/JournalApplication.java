@@ -28,7 +28,7 @@ public class JournalApplication {
         return new RestTemplate();
     }
     public void testingCommit() {
-        System.out.print("Hello! World.");
+        System.out.print("Hello! World...");
     }
 
 
